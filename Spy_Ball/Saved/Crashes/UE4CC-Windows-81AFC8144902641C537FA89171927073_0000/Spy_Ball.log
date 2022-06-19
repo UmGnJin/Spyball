@@ -1,0 +1,1117 @@
+﻿Log file open, 06/19/22 14:56:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Spy_Ball
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.081329
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Engine.ini]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Engine.ini]
+[2022.06.19-05.56.15:562][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Engine.ini]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Engine.ini]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.06.19-05.56.15:562][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Engine.ini]
+[2022.06.19-05.56.15:562][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Engine.ini]
+[2022.06.19-05.56.15:567][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Scalability.ini]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Scalability.ini]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Scalability.ini]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Scalability.ini]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Scalability.ini]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Scalability.ini]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.19-05.56.15:567][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Scalability.ini]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Scalability.ini]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.06.19-05.56.15:568][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.06.19-05.56.15:568][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.19-05.56.15:568][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.06.19-05.56.15:573][  0]LogHAL: Display: Platform has ~ 16 GB [16987439104 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.19-05.56.15:573][  0]LogInit: Going up to parent DeviceProfile []
+[2022.06.19-05.56.15:573][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Scalability.ini]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Scalability.ini]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Scalability.ini]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Scalability.ini]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Scalability.ini]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.19-05.56.15:573][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Scalability.ini]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Scalability.ini]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Scalability.ini]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.06.19-05.56.15:574][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Config/Windows/Engine.ini]
+[2022.06.19-05.56.15:574][  0]LogInit: Computer: DESKTOP-I3IQ800
+[2022.06.19-05.56.15:574][  0]LogInit: User: Geunhui
+[2022.06.19-05.56.15:574][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.06.19-05.56.15:574][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.19-05.56.15:574][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.06.19-05.56.15:574][  0]LogMemory: Platform Memory Stats for Windows
+[2022.06.19-05.56.15:575][  0]LogMemory: Process Physical Memory: 109.20 MB used, 109.21 MB peak
+[2022.06.19-05.56.15:575][  0]LogMemory: Process Virtual Memory: 101.58 MB used, 101.58 MB peak
+[2022.06.19-05.56.15:575][  0]LogMemory: Physical Memory: 7240.92 MB used,  8959.57 MB free, 16200.48 MB total
+[2022.06.19-05.56.15:575][  0]LogMemory: Virtual Memory: 5161.32 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2022.06.19-05.56.15:579][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.19-05.56.15:676][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.06.19-05.56.15:676][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2022.06.19-05.56.15:808][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.19-05.56.15:850][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.19-05.56.15:850][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.19-05.56.16:155][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.19-05.56.16:155][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.06.19-05.56.16:155][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.06.19-05.56.16:155][  0]LogD3D11RHI: D3D11 adapters:
+[2022.06.19-05.56.16:284][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 Super' (Feature Level 11_0)
+[2022.06.19-05.56.16:285][  0]LogD3D11RHI:       8011/0/8100 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.06.19-05.56.16:319][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2022.06.19-05.56.16:319][  0]LogD3D11RHI:       128/0/8100 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.06.19-05.56.16:322][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.06.19-05.56.16:322][  0]LogD3D11RHI:       0/0/8100 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.06.19-05.56.16:322][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.06.19-05.56.16:326][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.06.19-05.56.16:326][  0]LogD3D11RHI:     GPU DeviceId: 0x1e91 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.19-05.56.16:326][  0]LogWindows: EnumDisplayDevices:
+[2022.06.19-05.56.16:326][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.06.19-05.56.16:327][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.06.19-05.56.16:328][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.06.19-05.56.16:329][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 Super' (P:0 D:0)
+[2022.06.19-05.56.16:329][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070 Super' (P:0 D:0)
+[2022.06.19-05.56.16:330][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070 Super' (P:0 D:0)
+[2022.06.19-05.56.16:331][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070 Super' (P:0 D:0)
+[2022.06.19-05.56.16:331][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.06.19-05.56.16:331][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 Super
+[2022.06.19-05.56.16:331][  0]LogD3D11RHI:   Driver Version: 471.96 (internal:30.0.14.7196, unified:471.96)
+[2022.06.19-05.56.16:331][  0]LogD3D11RHI:      Driver Date: 8-27-2021
+[2022.06.19-05.56.16:331][  0]LogRHI: Texture pool is 5607 MB (70% of 8011 MB)
+[2022.06.19-05.56.16:409][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.06.19-05.56.16:409][  0]LogD3D11RHI: Async texture creation enabled
+[2022.06.19-05.56.16:425][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.06.19-05.56.16:820][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.06.19-05.56.16:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.19-05.56.16:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.19-05.56.16:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2022.06.19-05.56.16:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.19-05.56.16:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2022.06.19-05.56.16:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2022.06.19-05.56.16:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.19-05.56.16:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2022.06.19-05.56.16:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.19-05.56.16:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.19-05.56.16:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2022.06.19-05.56.16:851][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.19-05.56.16:851][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2022.06.19-05.56.16:851][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2022.06.19-05.56.16:851][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.19-05.56.16:851][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2022.06.19-05.56.16:851][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.19-05.56.16:851][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.19-05.56.16:872][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.19-05.56.16:872][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.19-05.56.16:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.06.19-05.56.16:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.19-05.56.16:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.19-05.56.16:913][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.06.19-05.56.16:921][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.06.19-05.56.16:931][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.06.19-05.56.16:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.06.19-05.56.16:961][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.06.19-05.56.16:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.19-05.56.16:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.19-05.56.16:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.06.19-05.56.16:999][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.19-05.56.17:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.19-05.56.17:016][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.19-05.56.17:016][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.06.19-05.56.17:021][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.19-05.56.17:057][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Intermediate/Shaders/WorkingDirectory/3656/).
+[2022.06.19-05.56.17:057][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/chash/AppData/Local/Temp/UnrealShaderWorkingDir/0D734D1E473E9986BF22C88A968373AB/'.
+[2022.06.19-05.56.17:058][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.06.19-05.56.17:058][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.06.19-05.56.17:058][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.06.19-05.56.17:723][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.06.19-05.56.17:766][  0]LogDerivedDataCache: Loaded boot cache 0.04s 78MB C:/Users/chash/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.06.19-05.56.17:766][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/chash/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2022.06.19-05.56.17:766][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.19-05.56.17:766][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.06.19-05.56.17:766][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.19-05.56.17:766][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.06.19-05.56.17:774][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.06.19-05.56.17:774][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.19-05.56.17:774][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.06.19-05.56.17:776][  0]LogDerivedDataCache: Using Local data cache path C:/Users/chash/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.19-05.56.17:776][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.19-05.56.17:776][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.06.19-05.56.17:795][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.06.19-05.56.17:797][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.19-05.56.17:797][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.19-05.56.17:857][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2022.06.19-05.56.18:129][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.19-05.56.18:272][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.19-05.56.18:272][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.19-05.56.18:272][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.19-05.56.18:272][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.19-05.56.18:272][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.19-05.56.18:284][  0]LogNetVersion: Spy_Ball 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 749630213)
+[2022.06.19-05.56.19:439][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.048719 seconds
+[2022.06.19-05.56.19:447][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2022.06.19-05.56.19:447][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2022.06.19-05.56.19:447][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.19-05.56.19:848][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.19-05.56.19:851][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.19-05.56.19:902][  0]SourceControl: Source control is disabled
+[2022.06.19-05.56.19:903][  0]SourceControl: Source control is disabled
+[2022.06.19-05.56.19:904][  0]SourceControl: Source control is disabled
+[2022.06.19-05.56.19:905][  0]SourceControl: Source control is disabled
+[2022.06.19-05.56.19:906][  0]SourceControl: Source control is disabled
+[2022.06.19-05.56.20:003][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.19-05.56.20:014][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.19-05.56.20:014][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.19-05.56.20:092][  0]LogOcInput: OculusInput pre-init called
+[2022.06.19-05.56.20:101][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.06.19-05.56.20:101][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.06.19-05.56.20:157][  0]LogEngine: Initializing Engine...
+[2022.06.19-05.56.20:159][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.19-05.56.20:160][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.19-05.56.20:441][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.19-05.56.20:448][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.19-05.56.20:456][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.19-05.56.20:456][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.19-05.56.20:457][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.19-05.56.20:457][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.19-05.56.20:457][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.19-05.56.20:457][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.19-05.56.20:457][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.19-05.56.20:457][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.19-05.56.20:457][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.19-05.56.20:457][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.19-05.56.20:534][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.06.19-05.56.20:534][  0]LogAudioMixer: Display: Name: 헤드셋 이어폰(Samsung USB C Earphones)
+[2022.06.19-05.56.20:534][  0]LogAudioMixer: Display: Is Default: Yes
+[2022.06.19-05.56.20:534][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2022.06.19-05.56.20:534][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2022.06.19-05.56.20:534][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2022.06.19-05.56.20:534][  0]LogAudioMixer: Display: Channel Order:
+[2022.06.19-05.56.20:534][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.19-05.56.20:534][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.06.19-05.56.20:583][  0]LogAudioMixer: Display: Using Audio Device 헤드셋 이어폰(Samsung USB C Earphones)
+[2022.06.19-05.56.20:587][  0]LogInit: FAudioDevice initialized.
+[2022.06.19-05.56.20:587][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.19-05.56.20:632][  0]LogDerivedDataCache: Saved boot cache 0.04s 78MB C:/Users/chash/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2022.06.19-05.56.20:632][  0]LogInit: Texture streaming: Enabled
+[2022.06.19-05.56.20:643][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.19-05.56.20:643][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.06.19-05.56.20:647][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.06.19-05.56.20:681][  0]LogInit: Transaction tracking system initialized
+[2022.06.19-05.56.20:692][  0]BlueprintLog: New page: Editor Load
+[2022.06.19-05.56.20:725][  0]LocalizationService: Localization service is disabled
+[2022.06.19-05.56.21:022][  0]LogFileCache: Scanning file cache for directory 'C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/' took 0.02s
+[2022.06.19-05.56.21:022][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.06.19-05.56.21:022][  0]LogCook: Display: Mobile HDR setting 1
+[2022.06.19-05.56.21:876][  0]SourceControl: Source control is disabled
+[2022.06.19-05.56.21:876][  0]Cmd: MAP LOAD FILE="../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/StarterBundle/ModularScifiHallways/Maps/Mainmenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.19-05.56.21:876][  0]LightingResults: New page: Lighting Build
+[2022.06.19-05.56.21:877][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-05.56.21:877][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-05.56.21:877][  0]MapCheck: New page: Map Check
+[2022.06.19-05.56.21:877][  0]LightingResults: New page: Lighting Build
+[2022.06.19-05.56.21:903][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.06.19-05.56.21:965][  0]LogAIModule: Creating AISystem for world Mainmenu
+[2022.06.19-05.56.21:966][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.19-05.56.21:994][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.06.19-05.56.21:995][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.19-05.56.21:995][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.198ms to complete.
+[2022.06.19-05.56.21:996][  0]LogFileHelpers: Loading map 'Mainmenu' took 0.119
+[2022.06.19-05.56.22:131][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.19-05.56.22:137][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.19-05.56.22:142][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.19-05.56.22:147][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.19-05.56.22:158][  0]LogCollectionManager: Loaded 0 collections in 0.002113 seconds
+[2022.06.19-05.56.22:179][  0]LogFileCache: Scanning file cache for directory 'C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Collections/' took 0.00s
+[2022.06.19-05.56.22:179][  0]LogFileCache: Scanning file cache for directory 'C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/Developers/Geunhui/Collections/' took 0.00s
+[2022.06.19-05.56.22:179][  0]LogFileCache: Scanning file cache for directory 'C:/Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/Collections/' took 0.00s
+[2022.06.19-05.56.22:179][  0]LogContentBrowser: Native class hierarchy populated in 0.0064 seconds. Added 3015 classes and 717 folders.
+[2022.06.19-05.56.22:184][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.06.19-05.56.22:359][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.06.19-05.56.22:369][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2022.06.19-05.56.22:513][  0]LogSlate: Took 0.000407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.19-05.56.22:515][  0]LogSlate: Took 0.000406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.19-05.56.22:520][  0]LogSlate: Took 0.000799 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.19-05.56.22:576][  0]LogRenderer: Reallocating scene render targets to support 1308x512 Format 10 NumSamples 1 (Frame:1).
+[2022.06.19-05.56.22:669][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.06.19-05.56.22:670][  0]LogLoad: (Engine Initialization) Total time: 9.24 seconds
+[2022.06.19-05.56.22:670][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.19-05.56.22:781][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.19-05.56.22:803][  0]LogRenderer: Reallocating scene render targets to support 1308x528 Format 10 NumSamples 1 (Frame:3).
+[2022.06.19-05.56.22:827][  0]LogSlate: Took 0.000813 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.19-05.56.22:856][  1]LogAssetRegistry: Asset discovery search completed in 4.9994 seconds
+[2022.06.19-05.56.22:858][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.06.19-05.56.32:450][322]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.19-05.56.32:460][322]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterBundle/ModularScifiHallways/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/StarterBundle/ModularScifiHallways/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/StarterBundle/ModularScifiHallways/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/StarterBundle/ModularScifiHallways/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2022.06.19-05.56.32:460][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.19-05.56.32:463][322]PIE: New page: PIE session: Mainmenu (Jun 19, 2022, 11:56:32 PM)
+[2022.06.19-05.56.32:464][322]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.06.19-05.56.32:465][322]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.06.19-05.56.32:465][322]LogPlayLevel: Creating play world package: /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Mainmenu
+[2022.06.19-05.56.32:466][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000997s)
+[2022.06.19-05.56.32:467][322]LogAIModule: Creating AISystem for world Mainmenu
+[2022.06.19-05.56.32:467][322]LogPlayLevel: PIE: World Init took: (0.001116s)
+[2022.06.19-05.56.32:467][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterBundle/ModularScifiHallways/Maps/Mainmenu.Mainmenu to /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Mainmenu.Mainmenu (0.002345s)
+[2022.06.19-05.56.32:491][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.06.19-05.56.32:492][322]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.19-05.56.32:492][322]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.19-05.56.32:492][322]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.19-05.56.32:492][322]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.19-05.56.32:492][322]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.19-05.56.32:492][322]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.19-05.56.32:492][322]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.19-05.56.32:492][322]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.19-05.56.32:492][322]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.19-05.56.32:492][322]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.19-05.56.32:549][322]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.06.19-05.56.32:549][322]LogAudioMixer: Display: Name: 헤드셋 이어폰(Samsung USB C Earphones)
+[2022.06.19-05.56.32:549][322]LogAudioMixer: Display: Is Default: Yes
+[2022.06.19-05.56.32:549][322]LogAudioMixer: Display: Sample Rate: 48000
+[2022.06.19-05.56.32:549][322]LogAudioMixer: Display: Channel Count Used: 2
+[2022.06.19-05.56.32:549][322]LogAudioMixer: Display: Device Channel Count: 2
+[2022.06.19-05.56.32:549][322]LogAudioMixer: Display: Channel Order:
+[2022.06.19-05.56.32:549][322]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.19-05.56.32:549][322]LogAudioMixer: Display: 1: FrontRight
+[2022.06.19-05.56.32:583][322]LogAudioMixer: Display: Using Audio Device 헤드셋 이어폰(Samsung USB C Earphones)
+[2022.06.19-05.56.32:584][322]LogInit: FAudioDevice initialized.
+[2022.06.19-05.56.32:595][322]LogLinker: Warning: Failed to load '/Game/StarterBundle/NewBlueprint': Can't find file.
+[2022.06.19-05.56.32:595][322]LogLinker: Warning: Failed to load '/Game/StarterBundle/NewBlueprint': Can't find file.
+[2022.06.19-05.56.32:595][322]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/StarterBundle/NewBlueprint.NewBlueprint_C'
+[2022.06.19-05.56.32:595][322]LogLoad: Game class is 'GameModeBase'
+[2022.06.19-05.56.32:597][322]LogWorld: Bringing World /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Mainmenu.Mainmenu up for play (max tick rate 0) at 2022.06.19-14.56.32
+[2022.06.19-05.56.32:597][322]LogWorld: Bringing up level for play took: 0.000411
+[2022.06.19-05.56.32:597][322]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2022.06.19-05.56.32:608][322]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.06.19-05.56.32:619][322]LogSlate: Took 0.004529 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.06.19-05.56.32:621][322]PIE: Play in editor start time for /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Mainmenu -0.529
+[2022.06.19-05.56.32:621][322]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterBundle/ModularScifiHallways/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/StarterBundle/ModularScifiHallways/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/StarterBundle/ModularScifiHallways/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/StarterBundle/ModularScifiHallways/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2022.06.19-05.56.37:251][872]LogNet: Browse: /Game/StarterBundle/ModularScifiHallways/Maps/Level3
+[2022.06.19-05.56.37:251][872]LogLoad: LoadMap: /Game/StarterBundle/ModularScifiHallways/Maps/Level3
+[2022.06.19-05.56.37:251][872]LogWorld: BeginTearingDown for /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Mainmenu
+[2022.06.19-05.56.37:251][872]LogWorld: UWorld::CleanupWorld for Mainmenu, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-05.56.37:251][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-05.56.37:251][872]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.06.19-05.56.37:277][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.06.19-05.56.37:292][872]LogLinker: Warning: While loading '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/asset/StarterContent/Shapes/Shape_Sphere.uasset' failed to load '/Game/StarterContent/Materials/M_Basic_Wall': Can't find file.
+[2022.06.19-05.56.37:292][872]LogLinker: Warning: While loading '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/asset/StarterContent/Shapes/Shape_Sphere.uasset' failed to load '/Game/StarterContent/Materials/M_Basic_Wall': Can't find file.
+[2022.06.19-05.56.37:293][872]LogLinker: Warning: While loading '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/asset/StarterContent/Shapes/Shape_Sphere.uasset' failed to load '/Game/StarterContent/Materials/M_Basic_Wall': Can't find file.
+[2022.06.19-05.56.37:293][872]LogLinker: Warning: While loading '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/asset/StarterContent/Shapes/Shape_Sphere.uasset' failed to load '/Game/StarterContent/Materials/M_Basic_Wall': Can't find file.
+[2022.06.19-05.56.37:339][872]LogLinker: Warning: While loading '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/asset/StarterContent/Shapes/Shape_Cube.uasset' failed to load '/Game/StarterContent/Materials/M_Basic_Wall': Can't find file.
+[2022.06.19-05.56.37:340][872]LogLinker: Warning: While loading '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/asset/StarterContent/Shapes/Shape_Cube.uasset' failed to load '/Game/StarterContent/Materials/M_Basic_Wall': Can't find file.
+[2022.06.19-05.56.37:340][872]LogLinker: Warning: While loading '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/asset/StarterContent/Shapes/Shape_Cube.uasset' failed to load '/Game/StarterContent/Materials/M_Basic_Wall': Can't find file.
+[2022.06.19-05.56.37:340][872]LogLinker: Warning: While loading '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/asset/StarterContent/Shapes/Shape_Cube.uasset' failed to load '/Game/StarterContent/Materials/M_Basic_Wall': Can't find file.
+[2022.06.19-05.56.37:667][872]LogLinker: Warning: While loading '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/asset/StarterContent/Shapes/Shape_Cube.uasset' failed to load '/Game/StarterContent/Materials/M_Basic_Wall': Can't find file.
+[2022.06.19-05.56.37:667][872]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Cube
+[2022.06.19-05.56.37:667][872]LogLinker: Warning: While loading '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/asset/StarterContent/Shapes/Shape_Cube.uasset' failed to load '/Game/StarterContent/Materials/M_Basic_Wall': Can't find file.
+[2022.06.19-05.56.37:693][872]LogLinker: Warning: While loading '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/asset/StarterContent/Shapes/Shape_Sphere.uasset' failed to load '/Game/StarterContent/Materials/M_Basic_Wall': Can't find file.
+[2022.06.19-05.56.37:693][872]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Sphere
+[2022.06.19-05.56.37:693][872]LogLinker: Warning: While loading '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/asset/StarterContent/Shapes/Shape_Sphere.uasset' failed to load '/Game/StarterContent/Materials/M_Basic_Wall': Can't find file.
+[2022.06.19-05.56.38:347][872]LogAIModule: Creating AISystem for world Level3
+[2022.06.19-05.56.38:348][872]LogLoad: Game class is 'GameModeBase'
+[2022.06.19-05.56.38:366][872]LogWorld: Bringing World /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2022.06.19-14.56.38
+[2022.06.19-05.56.38:367][872]LogWorld: Bringing up level for play took: 0.018626
+[2022.06.19-05.56.38:368][872]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.19-05.56.38:370][872]LogLoad: Took 1.119220 seconds to LoadMap(/Game/StarterBundle/ModularScifiHallways/Maps/Level3)
+[2022.06.19-05.56.44:885][630]LogNet: Browse: /Game/StarterBundle/ModularScifiHallways/Maps/Level3
+[2022.06.19-05.56.44:885][630]LogLoad: LoadMap: /Game/StarterBundle/ModularScifiHallways/Maps/Level3
+[2022.06.19-05.56.44:885][630]LogWorld: BeginTearingDown for /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Level3
+[2022.06.19-05.56.44:886][630]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-05.56.44:887][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-05.56.44:889][630]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2022.06.19-05.56.44:919][630]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2022.06.19-05.56.44:951][630]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.06.19-05.56.45:039][630]LogAIModule: Creating AISystem for world Level3
+[2022.06.19-05.56.45:040][630]LogLoad: Game class is 'GameModeBase'
+[2022.06.19-05.56.45:056][630]LogWorld: Bringing World /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Level3.Level3 up for play (max tick rate 0) at 2022.06.19-14.56.45
+[2022.06.19-05.56.45:057][630]LogWorld: Bringing up level for play took: 0.016223
+[2022.06.19-05.56.45:057][630]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.19-05.56.45:058][630]LogLoad: Took 0.173484 seconds to LoadMap(/Game/StarterBundle/ModularScifiHallways/Maps/Level3)
+[2022.06.19-05.56.46:994][857]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.06.19-05.56.47:009][857]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2022.06.19-05.56.47:029][857]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2022.06.19-05.56.47:029][857]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterBundle/ModularScifiHallways/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/StarterBundle/ModularScifiHallways/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/StarterBundle/ModularScifiHallways/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/StarterBundle/ModularScifiHallways/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2022.06.19-05.56.47:030][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.19-05.56.47:030][857]LogWorld: BeginTearingDown for /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Level3
+[2022.06.19-05.56.47:030][857]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.06.19-05.56.47:030][857]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-05.56.47:032][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-05.56.47:041][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.19-05.56.47:042][857]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterBundle/ModularScifiHallways/Maps/Mainmenu.Mainmenu:PersistentLevel' has LevelScriptBlueprint '/Game/StarterBundle/ModularScifiHallways/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu' with GeneratedClass '/Game/StarterBundle/ModularScifiHallways/Maps/Mainmenu.Mainmenu_C' with ClassGeneratedBy '/Game/StarterBundle/ModularScifiHallways/Maps/Mainmenu.Mainmenu:PersistentLevel.Mainmenu'
+[2022.06.19-05.56.47:044][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-05.56.47:066][857]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.06.19-05.56.47:069][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.19-05.56.47:074][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.06.19-05.56.47:097][859]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2022.06.19-05.56.52:519][484]LogSlate: Took 0.002142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.19-05.56.52:605][484]LogAIModule: Creating AISystem for world Level3
+[2022.06.19-05.56.52:622][484]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterBundle/ModularScifiHallways/Maps/Level3.Level3
+[2022.06.19-05.56.52:653][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.06.19-05.56.52:655][484]Cmd: MAP LOAD FILE="../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/StarterBundle/ModularScifiHallways/Maps/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.19-05.56.52:655][484]LightingResults: New page: Lighting Build
+[2022.06.19-05.56.52:655][484]LoadErrors: New page: Loading map: Level3.umap
+[2022.06.19-05.56.52:655][484]LogWorld: UWorld::CleanupWorld for Mainmenu, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-05.56.52:655][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-05.56.52:655][484]MapCheck: New page: Map Check
+[2022.06.19-05.56.52:655][484]LightingResults: New page: Lighting Build
+[2022.06.19-05.56.52:681][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.06.19-05.56.52:857][484]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.19-05.56.52:889][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.06.19-05.56.52:905][484]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.19-05.56.52:905][484]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.203ms to complete.
+[2022.06.19-05.56.52:905][484]LogFileHelpers: Loading map 'Level3' took 0.252
+[2022.06.19-05.56.59:929][159]LogAIModule: Creating AISystem for world Level2
+[2022.06.19-05.56.59:951][159]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterBundle/ModularScifiHallways/Maps/Level2.Level2
+[2022.06.19-05.56.59:980][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.06.19-05.56.59:984][159]Cmd: MAP LOAD FILE="../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/StarterBundle/ModularScifiHallways/Maps/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.19-05.56.59:984][159]LightingResults: New page: Lighting Build
+[2022.06.19-05.56.59:984][159]LoadErrors: New page: Loading map: Level2.umap
+[2022.06.19-05.56.59:987][159]LogWorld: UWorld::CleanupWorld for Level3, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-05.56.59:987][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-05.56.59:988][159]MapCheck: New page: Map Check
+[2022.06.19-05.56.59:988][159]LightingResults: New page: Lighting Build
+[2022.06.19-05.57.00:017][159]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.06.19-05.57.00:108][159]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.19-05.57.00:137][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.06.19-05.57.00:153][159]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.19-05.57.00:156][159]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.061ms to complete.
+[2022.06.19-05.57.00:156][159]LogFileHelpers: Loading map 'Level2' took 0.173
+[2022.06.19-05.57.02:394][377]LogEditorViewport: Clicking on Actor (LMB): GoToNextLevel_C (GoToNextLevel2)
+[2022.06.19-05.57.03:921][549]Cmd: DELETE
+[2022.06.19-05.57.03:921][549]Cmd: ACTOR DELETE
+[2022.06.19-05.57.03:933][549]LogEditorActor: Deleted Actor: GoToNextLevel_C
+[2022.06.19-05.57.03:960][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.06.19-05.57.03:964][549]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2022.06.19-05.57.06:590][844]LogAIModule: Creating AISystem for world Level1
+[2022.06.19-05.57.06:602][844]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1
+[2022.06.19-05.57.06:630][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.06.19-05.57.07:635][844]LogSlate: Window 'Save Content' being destroyed
+[2022.06.19-05.57.07:673][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.06.19-05.57.08:090][844]LogSavePackage: Moving '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Level29B35826E485F1AD2050DF7A73C7E077B.tmp' to '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/StarterBundle/ModularScifiHallways/Maps/Level2.umap'
+[2022.06.19-05.57.08:127][844]LogFileHelpers: Saving map 'Level2' took 0.482
+[2022.06.19-05.57.08:127][844]Cmd: MAP LOAD FILE="../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/StarterBundle/ModularScifiHallways/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.19-05.57.08:127][844]LightingResults: New page: Lighting Build
+[2022.06.19-05.57.08:128][844]LoadErrors: New page: Loading map: Level1.umap
+[2022.06.19-05.57.08:130][844]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-05.57.08:130][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-05.57.08:131][844]MapCheck: New page: Map Check
+[2022.06.19-05.57.08:131][844]LightingResults: New page: Lighting Build
+[2022.06.19-05.57.08:160][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.06.19-05.57.08:259][844]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.19-05.57.08:290][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.06.19-05.57.08:305][844]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.19-05.57.08:306][844]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.206ms to complete.
+[2022.06.19-05.57.08:306][844]LogFileHelpers: Loading map 'Level1' took 0.179
+[2022.06.19-05.57.08:337][844]AssetCheck: New page: Asset Save: Level2
+[2022.06.19-05.57.08:337][844]LogContentValidation: Display: Validating World /Game/StarterBundle/ModularScifiHallways/Maps/Level2.Level2
+[2022.06.19-05.57.08:386][844]LogAIModule: Creating AISystem for world Level2
+[2022.06.19-05.57.11:658][199]Cmd: SELECT NONE
+[2022.06.19-05.57.15:004][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.06.19-05.57.15:482][584]LogSavePackage: Moving '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Level1CB45C3E5498413431026FA8F894EF3CB.tmp' to '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/StarterBundle/ModularScifiHallways/Maps/Level1.umap'
+[2022.06.19-05.57.15:543][584]LogSavePackage: Moving '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Level1_BuiltDataFFF146E74AF478E7AD64AFA0061163E6.tmp' to '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/StarterBundle/ModularScifiHallways/Maps/Level1_BuiltData.uasset'
+[2022.06.19-05.57.15:556][584]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.19-05.57.15:556][584]LogContentValidation: Display: Validating World /Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1
+[2022.06.19-05.57.15:556][584]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterBundle/ModularScifiHallways/Maps/Level1_BuiltData.Level1_BuiltData
+[2022.06.19-06.00.49:966][ 51]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1
+[2022.06.19-06.00.49:992][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.06.19-06.00.49:993][ 51]Cmd: MAP LOAD FILE="../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/StarterBundle/ModularScifiHallways/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.19-06.00.49:993][ 51]LightingResults: New page: Lighting Build
+[2022.06.19-06.00.49:994][ 51]LoadErrors: New page: Loading map: Level1.umap
+[2022.06.19-06.00.49:997][ 51]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-06.00.49:997][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-06.00.49:997][ 51]MapCheck: New page: Map Check
+[2022.06.19-06.00.49:997][ 51]LightingResults: New page: Lighting Build
+[2022.06.19-06.00.50:025][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.06.19-06.00.50:055][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.06.19-06.00.50:079][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.06.19-06.00.50:141][ 51]LogAIModule: Creating AISystem for world Level1
+[2022.06.19-06.00.50:237][ 51]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.19-06.00.50:269][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.06.19-06.00.50:285][ 51]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.19-06.00.50:285][ 51]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.22ms to complete.
+[2022.06.19-06.00.50:285][ 51]LogFileHelpers: Loading map 'Level1' took 0.293
+[2022.06.19-06.00.53:707][422]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1
+[2022.06.19-06.00.53:857][422]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2022.06.19-06.00.54:515][422]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.19-06.00.55:946][580]LogSlate: Took 0.000999 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.19-06.02.13:268][234]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/blueprint/UI/PuaseMenu.PuaseMenu
+[2022.06.19-06.02.30:110][917]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 16917
+[2022.06.19-06.02.30:111][917]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-06.02.30:118][918]LogSlate: Took 0.002332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.19-06.02.30:125][918]LogSlate: Took 0.000338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.19-06.02.30:128][918]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.19-06.02.30:130][918]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.19-06.02.30:134][918]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.19-06.02.30:136][918]LogSlate: Took 0.000552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.19-06.02.30:336][932]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 15
+[2022.06.19-06.02.30:336][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-06.02.30:341][933]LogSlate: Took 0.000710 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.19-06.02.30:346][933]LogSlate: Took 0.000361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.19-06.02.30:349][933]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.19-06.02.30:351][933]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.19-06.02.30:355][933]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.19-06.02.30:357][933]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.19-06.02.47:819][567]BlueprintLog: New page: Compile PuaseMenu
+[2022.06.19-06.02.48:045][567]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.06.19-06.02.51:505][965]LogSlate: Took 0.000345 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.19-06.03.22:584][448]BlueprintLog: New page: Compile Level1
+[2022.06.19-06.03.22:810][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.06.19-06.03.25:753][783]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.19-06.03.25:766][783]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1'
+[2022.06.19-06.03.25:767][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.19-06.03.25:767][783]PIE: New page: PIE session: Level1 (Jun 20, 2022, 12:03:25 AM)
+[2022.06.19-06.03.25:767][783]LogPlayLevel: Creating play world package: /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Level1
+[2022.06.19-06.03.25:797][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030270s)
+[2022.06.19-06.03.25:798][783]LogAIModule: Creating AISystem for world Level1
+[2022.06.19-06.03.25:798][783]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2022.06.19-06.03.25:798][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1 to /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Level1.Level1 (0.031270s)
+[2022.06.19-06.03.25:828][783]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.06.19-06.03.25:829][783]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.19-06.03.25:829][783]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.19-06.03.25:829][783]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.19-06.03.25:829][783]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.19-06.03.25:829][783]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.19-06.03.25:829][783]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.19-06.03.25:829][783]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.19-06.03.25:829][783]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.19-06.03.25:830][783]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.19-06.03.25:830][783]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.19-06.03.25:880][783]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.06.19-06.03.25:880][783]LogAudioMixer: Display: Name: 헤드셋 이어폰(Samsung USB C Earphones)
+[2022.06.19-06.03.25:880][783]LogAudioMixer: Display: Is Default: Yes
+[2022.06.19-06.03.25:881][783]LogAudioMixer: Display: Sample Rate: 48000
+[2022.06.19-06.03.25:881][783]LogAudioMixer: Display: Channel Count Used: 2
+[2022.06.19-06.03.25:881][783]LogAudioMixer: Display: Device Channel Count: 2
+[2022.06.19-06.03.25:881][783]LogAudioMixer: Display: Channel Order:
+[2022.06.19-06.03.25:881][783]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.19-06.03.25:881][783]LogAudioMixer: Display: 1: FrontRight
+[2022.06.19-06.03.25:904][783]LogAudioMixer: Display: Using Audio Device 헤드셋 이어폰(Samsung USB C Earphones)
+[2022.06.19-06.03.25:905][783]LogInit: FAudioDevice initialized.
+[2022.06.19-06.03.25:916][783]LogLoad: Game class is 'GameModeBase'
+[2022.06.19-06.03.25:928][783]LogWorld: Bringing World /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.06.19-15.03.25
+[2022.06.19-06.03.25:928][783]LogWorld: Bringing up level for play took: 0.010985
+[2022.06.19-06.03.25:928][783]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.06.19-06.03.25:932][783]PIE: Play in editor start time for /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Level1 0.782
+[2022.06.19-06.03.25:932][783]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1'
+[2022.06.19-06.03.26:841][876]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.06.19-06.03.26:841][876]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.06.19-06.03.26:841][876]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1'
+[2022.06.19-06.03.26:842][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.19-06.03.26:842][876]LogWorld: BeginTearingDown for /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Level1
+[2022.06.19-06.03.26:842][876]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.06.19-06.03.26:842][876]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-06.03.26:844][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-06.03.26:857][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.19-06.03.26:857][876]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1'
+[2022.06.19-06.03.26:862][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-06.03.26:898][876]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.06.19-06.03.26:900][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.19-06.03.26:905][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.06.19-06.03.26:947][880]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.06.19-06.03.27:631][962]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.19-06.03.27:643][962]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1'
+[2022.06.19-06.03.27:643][962]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.19-06.03.27:643][962]PIE: New page: PIE session: Level1 (Jun 20, 2022, 12:03:27 AM)
+[2022.06.19-06.03.27:643][962]LogPlayLevel: Creating play world package: /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Level1
+[2022.06.19-06.03.27:675][962]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031806s)
+[2022.06.19-06.03.27:676][962]LogAIModule: Creating AISystem for world Level1
+[2022.06.19-06.03.27:676][962]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2022.06.19-06.03.27:676][962]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1 to /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Level1.Level1 (0.032681s)
+[2022.06.19-06.03.27:710][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.06.19-06.03.27:711][962]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.19-06.03.27:711][962]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.19-06.03.27:711][962]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.19-06.03.27:711][962]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.19-06.03.27:711][962]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.19-06.03.27:711][962]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.19-06.03.27:711][962]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.19-06.03.27:711][962]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.19-06.03.27:711][962]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.19-06.03.27:711][962]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.19-06.03.27:767][962]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.06.19-06.03.27:767][962]LogAudioMixer: Display: Name: 헤드셋 이어폰(Samsung USB C Earphones)
+[2022.06.19-06.03.27:767][962]LogAudioMixer: Display: Is Default: Yes
+[2022.06.19-06.03.27:767][962]LogAudioMixer: Display: Sample Rate: 48000
+[2022.06.19-06.03.27:767][962]LogAudioMixer: Display: Channel Count Used: 2
+[2022.06.19-06.03.27:767][962]LogAudioMixer: Display: Device Channel Count: 2
+[2022.06.19-06.03.27:767][962]LogAudioMixer: Display: Channel Order:
+[2022.06.19-06.03.27:767][962]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.19-06.03.27:767][962]LogAudioMixer: Display: 1: FrontRight
+[2022.06.19-06.03.27:792][962]LogAudioMixer: Display: Using Audio Device 헤드셋 이어폰(Samsung USB C Earphones)
+[2022.06.19-06.03.27:793][962]LogInit: FAudioDevice initialized.
+[2022.06.19-06.03.27:797][962]LogLoad: Game class is 'GameModeBase'
+[2022.06.19-06.03.27:808][962]LogWorld: Bringing World /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.06.19-15.03.27
+[2022.06.19-06.03.27:808][962]LogWorld: Bringing up level for play took: 0.010588
+[2022.06.19-06.03.27:809][962]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.06.19-06.03.27:811][962]PIE: Play in editor start time for /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Level1 0.661
+[2022.06.19-06.03.27:811][962]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1'
+[2022.06.19-06.03.36:862][ 27]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.06.19-06.03.36:862][ 27]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.06.19-06.03.36:862][ 27]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1'
+[2022.06.19-06.03.36:863][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.19-06.03.36:863][ 27]LogWorld: BeginTearingDown for /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Level1
+[2022.06.19-06.03.36:863][ 27]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.06.19-06.03.36:863][ 27]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-06.03.36:865][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-06.03.36:873][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.19-06.03.36:873][ 27]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1'
+[2022.06.19-06.03.36:878][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-06.03.36:909][ 27]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.06.19-06.03.36:911][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.19-06.03.36:916][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.06.19-06.03.36:963][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.06.19-06.06.30:214][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.06.19-06.06.30:233][485]LogBlueprint: Error: [Compiler PersistentLevel.Level1] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2022.06.19-06.06.30:756][485]LogSavePackage: Moving '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Level1D3273157405CC377E649F885A7571969.tmp' to '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/StarterBundle/ModularScifiHallways/Maps/Level1.umap'
+[2022.06.19-06.06.30:775][485]LogFileHelpers: Saving map 'Level1' took 0.600
+[2022.06.19-06.06.30:790][485]AssetCheck: New page: Asset Save: Level1
+[2022.06.19-06.06.30:790][485]LogContentValidation: Display: Validating World /Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1
+[2022.06.19-06.06.39:462][363]BlueprintLog: New page: Compile Level1
+[2022.06.19-06.06.39:685][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.06.19-06.06.45:691][ 26]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.19-06.06.45:704][ 26]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1'
+[2022.06.19-06.06.45:704][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.19-06.06.45:704][ 26]PIE: New page: PIE session: Level1 (Jun 20, 2022, 12:06:45 AM)
+[2022.06.19-06.06.45:704][ 26]LogPlayLevel: Creating play world package: /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Level1
+[2022.06.19-06.06.45:735][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031230s)
+[2022.06.19-06.06.45:736][ 26]LogAIModule: Creating AISystem for world Level1
+[2022.06.19-06.06.45:736][ 26]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2022.06.19-06.06.45:736][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1 to /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Level1.Level1 (0.032183s)
+[2022.06.19-06.06.45:772][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.06.19-06.06.45:773][ 26]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.19-06.06.45:773][ 26]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.19-06.06.45:773][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.19-06.06.45:773][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.19-06.06.45:773][ 26]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.19-06.06.45:773][ 26]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.19-06.06.45:773][ 26]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.19-06.06.45:773][ 26]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.19-06.06.45:773][ 26]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.19-06.06.45:773][ 26]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.19-06.06.45:826][ 26]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2022.06.19-06.06.45:826][ 26]LogAudioMixer: Display: Name: 헤드셋 이어폰(Samsung USB C Earphones)
+[2022.06.19-06.06.45:826][ 26]LogAudioMixer: Display: Is Default: Yes
+[2022.06.19-06.06.45:826][ 26]LogAudioMixer: Display: Sample Rate: 48000
+[2022.06.19-06.06.45:826][ 26]LogAudioMixer: Display: Channel Count Used: 2
+[2022.06.19-06.06.45:826][ 26]LogAudioMixer: Display: Device Channel Count: 2
+[2022.06.19-06.06.45:826][ 26]LogAudioMixer: Display: Channel Order:
+[2022.06.19-06.06.45:826][ 26]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.19-06.06.45:826][ 26]LogAudioMixer: Display: 1: FrontRight
+[2022.06.19-06.06.45:849][ 26]LogAudioMixer: Display: Using Audio Device 헤드셋 이어폰(Samsung USB C Earphones)
+[2022.06.19-06.06.45:850][ 26]LogInit: FAudioDevice initialized.
+[2022.06.19-06.06.45:854][ 26]LogLoad: Game class is 'GameModeBase'
+[2022.06.19-06.06.45:865][ 26]LogWorld: Bringing World /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.06.19-15.06.45
+[2022.06.19-06.06.45:866][ 26]LogWorld: Bringing up level for play took: 0.010472
+[2022.06.19-06.06.45:866][ 26]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2022.06.19-06.06.45:868][ 26]PIE: Play in editor start time for /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Level1 0.718
+[2022.06.19-06.06.45:868][ 26]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1'
+[2022.06.19-06.06.55:127][118]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.06.19-06.06.55:128][118]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2022.06.19-06.06.55:159][118]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2022.06.19-06.06.55:159][118]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1'
+[2022.06.19-06.06.55:159][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.19-06.06.55:159][118]LogWorld: BeginTearingDown for /Game/StarterBundle/ModularScifiHallways/Maps/UEDPIE_0_Level1
+[2022.06.19-06.06.55:159][118]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.06.19-06.06.55:159][118]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-06.06.55:161][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-06.06.55:175][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.19-06.06.55:175][118]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1'
+[2022.06.19-06.06.55:179][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-06.06.55:215][118]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2022.06.19-06.06.55:217][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.19-06.06.55:222][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.06.19-06.06.55:239][119]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.06.19-06.07.06:322][311]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2022.06.19-06.07.06:905][311]LogSavePackage: Moving '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Saved/Level114B0EC70492841BAE9CD91B1630EF557.tmp' to '../../../../../../Users/chash/Documents/GitHub/Spyball/Spy_Ball/Content/StarterBundle/ModularScifiHallways/Maps/Level1.umap'
+[2022.06.19-06.07.06:923][311]LogFileHelpers: Saving map 'Level1' took 0.667
+[2022.06.19-06.07.06:936][311]AssetCheck: New page: Asset Save: Level1
+[2022.06.19-06.07.06:936][311]LogContentValidation: Display: Validating World /Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1
+[2022.06.19-06.07.07:393][357]BlueprintLog: New page: Compile Level1
+[2022.06.19-06.07.07:643][357]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.06.19-06.07.11:452][771]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2022.06.19-06.07.21:151][771]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.19-06.07.22:947][771]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-06.07.22:947][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-06.07.22:959][771]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-06.07.22:959][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-06.07.22:986][771]LogSlate: Window 'Level1' being destroyed
+[2022.06.19-06.07.22:992][771]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.06.19-06.07.22:992][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.19-06.07.23:020][771]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/blueprint/UI/PuaseMenu.PuaseMenu
+[2022.06.19-06.07.25:265][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.06.19-06.07.26:997][958]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1:PersistentLevel.Level1
+[2022.06.19-06.07.28:934][147]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.06.19-06.07.29:376][147]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.443 s
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: === Handled ensure: ===
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: 
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: Ensure condition failed: Class != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/PropertyEditor/Private/UserInterface/PropertyEditor/SPropertyEditorAsset.cpp] [Line: 1371]
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: Property (ObjectProperty /Game/StarterBundle/ModularScifiHallways/Maps/Level1.Level1_C:NewVar_1) is not an object or interface class
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: Stack: 
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff94326e61f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff9430e20da UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff942f5bbc7 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff942fc38e8 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff942fc114f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff942e53dc0 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff942eb8291 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff942eaab6c UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff942eaaa2f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff9430d987a UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff942e51f0b UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff942e95528 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff9431569ec UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff94311a9b3 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff94312d310 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff94312eaf7 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff94317021b UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff95f64632f UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff94318763f UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b759f UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff95f5f2a79 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:376][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff95f5f28f4 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff95f5f28f4 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff95f5f5574 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff95f5f28f4 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff95f5f5574 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b8646 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b617c UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b6042 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b5810 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b7c8e UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b8757 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c320681 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: [Callstack] 0x00007ff96c3b8a42 UE4Editor-SlateCore.dll!UnknownFunction []
+[2022.06.19-06.07.29:377][147]LogOutputDevice: Error: 
+[2022.06.19-06.07.29:386][147]LogStats:                SubmitErrorReport -  0.000 s
